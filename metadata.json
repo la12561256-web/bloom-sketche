@@ -1,0 +1,6 @@
+{
+  "name": "Bloom Sketch",
+  "description": "A highly polished, minimal drawing and sketching canvas with multiple layers, custom colors, and fluid vector stroke controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
